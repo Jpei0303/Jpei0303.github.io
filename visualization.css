@@ -1,0 +1,30 @@
+header{
+    font-size: 50px; 
+}
+.head{
+    margin: 20px 0;
+    position: relative;
+    left: 50px;
+}
+.border-visual{
+    width: 630px; height: 400px;
+    border: 2px solid black;
+    position: relative; 
+    left: 50px;
+}
+.visual{
+    width: 600px; height: 370px;
+    background-image: url("https://www.maptive.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-29-at-7.03.15-PM-1024x644.png");
+    background-size: cover;
+    margin: 10px;
+}
+.para{
+    width: 700px;
+    position: relative;
+    left: 50px;
+}
+.box{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
